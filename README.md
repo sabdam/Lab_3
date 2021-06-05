@@ -3,7 +3,7 @@
   
 ### Anisotropic and Threshold Statistical Filtering Methods  
   
-***** Task *****  
+#### ***** Task *****  
   
 There is an original matrix:  
   
@@ -41,7 +41,7 @@ There is an original matrix:
   [0, 26, 46, 73, 102, 116, 121, 108, 126, 84, 78, 49, 10, 15, 0],  
   [8, 16, 28, 28, 52, 52, 52, 72, 64, 56, 44, 44, 20, 20, 20]]  
   
-It is necessary to process the noisy matrix in two ways:  
+#### It is necessary to process the noisy matrix in two ways:  
      1. By the method of anisotropic filtering  
      2. By the method of statistical threshold filtering:  
         m = 1.31; N = 3  
