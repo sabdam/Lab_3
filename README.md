@@ -1,7 +1,7 @@
 # Lab_3
-Digital processing of multidimensional signals    
+## processing of multidimensional signals    
   
-Anisotropic and Threshold Statistical Filtering Methods  
+### Anisotropic and Threshold Statistical Filtering Methods  
   
 ***** Task *****  
   
