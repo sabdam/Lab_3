@@ -1,5 +1,5 @@
 # Lab_3
-## processing of multidimensional signals    
+## Processing of multidimensional signals    
   
 ### Anisotropic and Threshold Statistical Filtering Methods  
   
